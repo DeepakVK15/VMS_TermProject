@@ -1,0 +1,3 @@
+[submodule "Vaccination-Management-System"]
+	path = Vaccination-Management-System
+	url = https://github.com/DeepakVK15/Vaccination-Management-System.git
